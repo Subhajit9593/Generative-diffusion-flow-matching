@@ -37,7 +37,7 @@ deterministic inversion, and zero-shot semantic image translation.
 ## Repository Structure
 
 - `notebooks/`: Complete implementation and mathematical explanations
-- `assets/`: Generated samples and experimental visualizations
+- `Images/`: Generated samples and experimental visualizations
 
 ## Dataset
 
