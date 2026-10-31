@@ -1,4 +1,4 @@
-# Generative-diffusion-flow-matching
+
 # Generative Diffusion & Flow Matching Framework
 
 A from-scratch PyTorch implementation of modern generative
